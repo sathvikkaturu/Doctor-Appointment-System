@@ -63,9 +63,7 @@ Once the installation is complete, you can start using the system. The admin pan
 - *Login ID:* 123
 - *Password:* 123
 
-## Screenshots
-
-(Include relevant screenshots here to showcase the functionality and user interface of your application.)
+ 
 
 ## Contact
 
